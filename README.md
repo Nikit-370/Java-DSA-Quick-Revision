@@ -160,16 +160,6 @@ GitHub:
 
 ---
 
-# Future Improvements
-
-- BFS & DFS
-- Heap Sort
-- Greedy Algorithms
-- String Algorithms
-- More visualization-friendly implementations
-
----
-
 # Support
 
 If you found this repository helpful, consider giving it a ⭐ on GitHub.
